@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IO_ADS1114	KEYWORD1
+AD7150_adOffset_t	KEYWORD1
+AD7150_adRange_t	KEYWORD1
+AD7150_adMode_t	KEYWORD1
+AD7150_Values	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+writeRegister	KEYWORD2
+setup	KEYWORD2
+configure	KEYWORD2
+setOffset	KEYWORD2
+setRange	KEYWORD2
+getValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
