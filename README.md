@@ -1,4 +1,4 @@
-Iotech Arduino Library for
+IoThings Arduino Library for
 Analog Devices AD7150 Breakout
 ==============================================================
 
