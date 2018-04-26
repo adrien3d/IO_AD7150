@@ -6,8 +6,8 @@ AD7150_Values result;
 void setup()
 {
   ad7150.begin();
-  ad7150.setOffset(AD7150_OFFSET_DAC_EN_MANU_5);
-  ad7150.setRange(AD7150_CAPACTIVE_INPUT_RANGE_2);
+  ad7150.setOffset(AD7150_OFFSET_DAC_5);
+  ad7150.setRange(AD7150_RANGE_0_2);
   ad7150.setup();
 
   Serial.begin(115200);
